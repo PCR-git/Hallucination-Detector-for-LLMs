@@ -25,7 +25,7 @@ Reflective RAG
 ├── snippets_map.json # RAG corpus
 ├── trivia_kb.index # FAISS index
 │
-└── technical_report.pdf # Method description and results
+└── Hallucination_Detection_from_Transformer_Activations.pdf # Method description and results
 ```
 
 ## Data
